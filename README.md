@@ -1,5 +1,5 @@
 # Saa-Florist
-Saa Florist adalah toko buket dengan berbagai variasi, baik itu buket bunga, buket uang, buket snack dan bahkan sesuai request!
+Saa Florist is a bouquet shop with a wide variety, be it a flower bouquet, money bouquet, snack bouquet and even accepts customized bouquet!
 
-Seperti apa sih Saa Florist itu?, Website ini dikembangkan untuk melihat review produk dari Saa Florist, dengan HTML, CSS, dan JavaScript. Pengembangan website ini dibuat dengan sederhana dan menampilkan Interface yang menarik nyaman dilihat
-Ayo cek dan jangan lupa pesan!
+What is Saa Florist like, this website was developed to view product reviews from Saa Florist, with HTML, CSS, and JavaScript. The development of this website is made simply and displays an attractive interface that is comfortable to see.
+Let's check and don't forget to order!
